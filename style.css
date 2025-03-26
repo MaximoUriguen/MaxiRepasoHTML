@@ -1,0 +1,52 @@
+h1{
+    color: red;
+    text-align: center;
+}
+body{
+    color: lightgray;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    border: 2px solid black;
+}
+.resaltado{
+    color: green;
+}
+p{
+    background-color: lightblue;
+}
+div {
+    margin: 15px;
+}
+table{
+    padding: 10px;
+}
+#dupont{
+    width: 200px;
+}
+#TituloGrande{
+    font-size: 30px;
+}
+.LiPurple{
+    color: purple;
+}
+#ParrafoAmarillo{
+    font-family: Times 'Times New Roman', Times, serif;
+    size: 16px;
+    background-color: yellow;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse; 
+}
+
+
+table th, table td {
+    border: 1px solid black;
+    padding: 5px;
+}
